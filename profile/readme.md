@@ -153,7 +153,7 @@ docker-compose -f docker-compose.prod.yml up —build
       </tbody>
       <tbody>
         <tr>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193301713-d92f57bf-fe98-4e07-9e04-67b81e2c770a.gif"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/70627982/193320309-930c708a-e170-44dd-b6aa-fb3ed0f13316.gif"  width="350px" height="350px"/></th>
           <th><img src="https://user-images.githubusercontent.com/70627982/193300976-777f7438-ba12-409f-8629-e552ed661e6e.png"  width="350px" height="350px"/></th>
         </tr>
       </tbody>
@@ -181,9 +181,22 @@ docker-compose -f docker-compose.prod.yml up —build
           <th><img src="https://user-images.githubusercontent.com/70627982/193304484-e86654b5-338e-449f-802e-0a4348a6618f.png"  width="350px" height="350px"/></th>
         </tr>
       </tbody>
+      <tbody>
+      <tr>
+          <th style="text-align: center;">카카오톡 공유</th>
+          <th style="text-align: center;">마이페이지</th>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <th><img src="https://user-images.githubusercontent.com/70627982/193330399-07354aef-dd3d-4925-af92-429409f7ba82.png"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/70627982/193330071-a4bd95e2-b7ca-40d8-8ee3-9afb513559f3.png"  width="350px" height="350px"/></th>
+        </tr>
+      </tbody>
     </table>
 
 <hr>
+
 
 
 ## 7. Team Member
